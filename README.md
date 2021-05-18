@@ -64,8 +64,6 @@ npm install -g db-migrate
 npm install --save db-migrate-mysql
 ```
 
-- Nós vamos utilizar um banco de dados MySQL, portanto é necessária a instalação do pacote que fará a gestão das conexões por nós. Execute: `npm install --save db-migrate-mysql`
-
 ## Instalando MySQL
 
 - Baixe a última versão do [`MySQL Community Server`](https://dev.mysql.com/downloads/mysql/) acessando o link <https://dev.mysql.com/downloads/installer/> e siga o processo de instalação padrão até o fim.
